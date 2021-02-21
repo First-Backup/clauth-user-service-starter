@@ -1,0 +1,4 @@
+com\corelogic\clauth\starters\userservice\autocomplete\dtos\AutocompleteResponse.class
+com\corelogic\clauth\starters\userservice\autocomplete\AutocompleteClient.class
+com\corelogic\clauth\starters\userservice\autocomplete\dtos\AutocompleteOrganizationResponseDto.class
+com\corelogic\clauth\starters\userservice\autocomplete\dtos\AutocompleteUserResponseDto.class
